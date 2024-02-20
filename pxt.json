@@ -1,6 +1,6 @@
 {
     "name": "耦合器",
-    "description": "",
+    "description": "MakeCode代码耦合器",
     "dependencies": {
         "device": "*",
         "microphone": "*"
@@ -15,7 +15,9 @@
     ],
     "targetVersions": {
         "target": "6.0.25",
-        "targetId": "microbit"
+        "targetId": "microbit",
+        "target1": "1.12.47",
+        "targetId1": "arcade"
     },
     "supportedTargets": [
         "arcade",
