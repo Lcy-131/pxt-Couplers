@@ -13,18 +13,6 @@
     "testFiles": [
         "test.ts"
     ],
-    "targetVersions": {
-        "target": [
-            "6.0.25",
-            "1.12.47",
-            "1.7.28",
-        ],
-        "targetId": [
-            "microbit",
-            "arcade",
-            "minecraft"
-        ]
-    },
     "supportedTargets": [
         "arcade",
         "microbit"
