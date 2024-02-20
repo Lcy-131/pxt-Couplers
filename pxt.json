@@ -2,8 +2,7 @@
     "name": "耦合器",
     "description": "",
     "dependencies": {
-        "device": "*",
-        "microphone": "*"
+        "device": "*"
     },
     "files": [
         "main.ts",
