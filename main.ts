@@ -20,7 +20,7 @@ namespace couplers {
     //% blockId=makecode_convert_numtostr block="$num => String || using $bin base"
     //% weight=2
     export function NumberToString(num: number, bin: number = 10): string
-    { return num.toString() /* ('' + num) is ok */ }
+    { return num.toString() }
     //% group='Number => any'
     //% blockId=makecode_convert_numtoarr block="$num => Array || using $bin base"
     //% weight=1
